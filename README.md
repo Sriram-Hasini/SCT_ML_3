@@ -30,3 +30,13 @@ To classify images of cats and dogs using a Support Vector Machine (SVM) algorit
 
 ## Algorithm
 Support Vector Machine (LinearSVC)
+## Results
+
+- Accuracy: 48.75%
+- Confusion Matrix Generated
+- Classification Report Generated
+- Model Saved Successfully
+
+## Algorithm Used
+
+Support Vector Machine (LinearSVC)
